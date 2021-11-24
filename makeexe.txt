@@ -1,0 +1,1 @@
+pyinstaller -F --add-data "Market.sqlite;." --add-data "./Picture;Picture" --add-data "./TX;TX" Project1UstinovViktorVerEnd.py
